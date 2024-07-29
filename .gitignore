@@ -1,5 +1,4 @@
 node_modules
-dist
 bazel-testlogs
 bazel-bin
 bazel-out
