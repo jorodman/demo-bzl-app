@@ -1,0 +1,7 @@
+
+- Get working with latest TS versions
+- Get linting working
+- Source maps working with debugging
+- Add react project
+- Add express project
+- Alias to run services

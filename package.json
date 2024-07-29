@@ -4,7 +4,7 @@
   "description": "Demo ts and bazel app",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc"
   },
   "author": "Joe Rodman",
   "license": "ISC",
