@@ -1,2 +1,6 @@
 node_modules
 dist
+bazel-testlogs
+bazel-bin
+bazel-out
+bazel-demo-bzl-app
